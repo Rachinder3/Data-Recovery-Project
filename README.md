@@ -67,3 +67,23 @@ It uses Cipher class to encrypt the backups. While recovering data from backup f
 
 # Screenshots
 
+![App Screenshot](screenshots/input_files.PNG)
+
+#### Input Files Path
+
+
+======================================================================================================================
+
+
+### Backup Key - Recovery Key Same
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+![App Screenshot](screenshots/backup_key_recovery_key_same/backup_key_recover_key_same.PNG)
+
+#### Backup Key and Recovery Key
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
